@@ -1,5 +1,5 @@
 ############################ Default configuration #########################
-baseURL = "https://christitus.com/"
+baseURL = "https://ctt-clone.netlify.app/"
 title = "Chris Titus Clone | Tech Content Creator"
 # theme
 theme = "northendlab"
