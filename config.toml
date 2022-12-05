@@ -1,6 +1,6 @@
 ############################ Default configuration #########################
 baseURL = "https://christitus.com/"
-title = "Chris Titus Tech | Tech Content Creator"
+title = "Chris Titus Clone | Tech Content Creator"
 # theme
 theme = "northendlab"
 # post pagination
